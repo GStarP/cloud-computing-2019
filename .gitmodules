@@ -1,3 +1,6 @@
 [submodule "cloud-computing-frontend"]
 	path = cloud-computing-frontend
 	url = https://github.com/GStarP/cloud-computing-frontend.git
+[submodule "weibotest"]
+	path = weibotest
+	url = https://github.com/ccccz/weibotest.git
