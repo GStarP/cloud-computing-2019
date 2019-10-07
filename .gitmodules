@@ -4,3 +4,6 @@
 [submodule "weibotest"]
 	path = weibotest
 	url = https://github.com/ccccz/weibotest.git
+[submodule "SparkLoveWeibo"]
+	path = SparkLoveWeibo
+	url = https://github.com/QQ876684433/SparkLoveWeibo.git
