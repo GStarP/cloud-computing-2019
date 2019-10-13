@@ -9,4 +9,5 @@
 |      前端       | https://github.com/GStarP/cloud-computing-frontend.git |
 |      爬虫       |         https://github.com/ccccz/weibotest.git         |
 | Spark Streaming |   https://github.com/QQ876684433/SparkLoveWeibo.git    |
+|      后端       | https://github.com/GStarP/cloud-computing-backend.git |
 
