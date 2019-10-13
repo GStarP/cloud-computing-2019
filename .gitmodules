@@ -7,3 +7,6 @@
 [submodule "SparkLoveWeibo"]
 	path = SparkLoveWeibo
 	url = https://github.com/QQ876684433/SparkLoveWeibo.git
+[submodule "cloud-computing-backend"]
+	path = cloud-computing-backend
+	url = https://github.com/GStarP/cloud-computing-backend.git
